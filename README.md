@@ -1,2 +1,3 @@
 # ECO-E
-Eco-E Ish
+
+If you ain't first, you last
